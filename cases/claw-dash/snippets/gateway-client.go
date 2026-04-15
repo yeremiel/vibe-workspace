@@ -1,3 +1,6 @@
+//go:build ignore
+// This file is an excerpt for documentation purposes. Not meant to be compiled standalone.
+
 // 발췌 출처: claw-dash backend/internal/gateway/client.go
 // 전체 코드는 비공개입니다. 핵심 로직 발췌.
 //
