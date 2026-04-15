@@ -1,5 +1,7 @@
 # OpenClaw Workbench — 케이스 스터디
 
+[🇯🇵 日本語](README.ja.md) | 🇰🇷 한국어
+
 > AI 에이전트 런타임(OpenClaw Gateway)을 운영하기 위한 대시보드 겸 오케스트레이션 도구.
 > Go BFF + Svelte 5 SPA 구성, MVP부터 칸반 기반 에이전트 작업 보드까지 7개 Phase를 완주했다.
 
