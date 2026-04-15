@@ -11,7 +11,7 @@
 | 名前 | Miel (yeremiel) |
 | 主な使用言語 | Java（16年）、Go、TypeScript、Flutter |
 | タイムゾーン | Asia/Seoul (KST, UTC+9) |
-| 作業言語 | 韓国語 |
+| 会話言語 | 韓国語 |
 
 ---
 
@@ -27,7 +27,7 @@
 │       │   └── CLAUDE.md
 │       ├── claw-usage-chart/        # OpenClawトークン使用量可視化ツール（→ claw-dash統合予定）
 │       │   └── CLAUDE.md
-│       ├── kanban-test/             # Kanbanプロジェクト（実験・初期initのみ）
+│       ├── kanban-test/             # Kanbanプロジェクト（実験・初期化のみ）
 │       ├── Learning-Go-study/       # Go言語学習プロジェクト（ch1〜ch2）
 │       ├── scanner/                 # オフライン文書スキャナーアプリ（Flutter + Android CameraX/OpenCV）
 │       └── myLib/                   # 個人蔵書管理サービス（メインプロジェクト）
