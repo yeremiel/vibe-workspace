@@ -37,10 +37,3 @@ AI 에이전트 오케스트레이션 대시보드. Go BFF + Svelte 5 SPA 구조
 OpenClaw Gateway와 WebSocket으로 연결해 실시간 에이전트 세션을 시각화한다.
 
 이 프로젝트에서 AI와 함께 가장 많이 헤맸고, 가장 많이 배웠다.
-
-## 병행 중인 프로젝트 (비공개)
-
-claw-dash 외에 같은 방식으로 진행 중인 프로젝트들이다. 코드는 비공개이나 동일한 AI 협업 환경을 사용한다.
-
-- **myLib** — 개인 도서 관리 서비스. Go/Gin 백엔드 + Flutter 프론트엔드 풀스택. 추후 본인 서비스로 배포 예정
-- **scanner** — Flutter + Android CameraX + OpenCV 기반 오프라인 문서 스캐너
